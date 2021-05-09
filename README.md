@@ -4,9 +4,14 @@ Docker | wordpress | cerbot
 Create this directories:  
 mkdir certbot-etc | mkdir nginx-conf |  touch  nginx.conf |  mkdir dbdata
 
-touch .env = this is where we store the credentials 
+This is where we store the credentials 
+
+touch .env 
+
 SQL_ROOT_PASSWORD=______ 
+
 MYSQL_USER=_____ 
+
 MYSQL_PASSWORD=____  
 
 Remember add the wp_config.php file 
