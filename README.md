@@ -9,3 +9,4 @@ MYSQL_PASSWORD=____
 Remember add the wp_config.php file 
 Reference: https://www.digitalocean.com/community/tutorials/how-to-install-wordpress-with-docker-compose-es
 www.duckdns.org
+If you use duckdns remember setup the token inside the docker-compose.yml
