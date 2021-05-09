@@ -1,5 +1,5 @@
 # webPage
-Docker | Ngingx| Wordpress | Cerbot 
+Docker | Ngingx | Wordpress | Cerbot 
 
 Create this directories:  
 - mkdir certbot-etc | mkdir nginx-conf |  mkdir dbdata | touch  nginx.conf 
