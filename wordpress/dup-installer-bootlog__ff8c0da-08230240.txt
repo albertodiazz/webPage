@@ -1,0 +1,162 @@
+[May 8 23:24:29] 
+[May 8 23:24:29] ==DUPLICATOR INSTALLER BOOTSTRAP v1.4.0==
+[May 8 23:24:29] ----------------------------------------------------
+[May 8 23:24:29] Installer bootstrap start
+[May 8 23:24:29] Ready to extract the installer
+[May 8 23:24:29] Checking permission of destination folder
+[May 8 23:24:29] ZipArchive exists so using that
+[May 8 23:24:29] Successfully opened archive file.
+[May 8 23:24:29] Extracting all files from archive within dup-installer
+[May 8 23:24:29] Success: dup-installer/dup-database__[HASH].sql >>> /var/www/html
+[May 8 23:24:29] Success: dup-installer/dup-scan__[HASH].json >>> /var/www/html
+[May 8 23:24:29] Success: dup-installer/assets/inc.libs.js.php >>> /var/www/html
+[May 8 23:24:29] Success: dup-installer/assets/images/ui-bg_glass_75_dadada_1x400.png >>> /var/www/html
+[May 8 23:24:29] Success: dup-installer/assets/images/ui-bg_glass_95_fef1ec_1x400.png >>> /var/www/html
+[May 8 23:24:29] Success: dup-installer/assets/images/ui-icons_454545_256x240.png >>> /var/www/html
+[May 8 23:24:29] Success: dup-installer/assets/images/ui-icons_2e83ff_256x240.png >>> /var/www/html
+[May 8 23:24:29] Success: dup-installer/assets/images/ui-bg_glass_65_ffffff_1x400.png >>> /var/www/html
+[May 8 23:24:29] Success: dup-installer/assets/images/ui-bg_glass_75_e6e6e6_1x400.png >>> /var/www/html
+[May 8 23:24:29] Success: dup-installer/assets/images/ui-icons_cd0a0a_256x240.png >>> /var/www/html
+[May 8 23:24:29] Success: dup-installer/assets/images/index.php >>> /var/www/html
+[May 8 23:24:29] Success: dup-installer/assets/images/ui-bg_glass_55_fbf9ee_1x400.png >>> /var/www/html
+[May 8 23:24:29] Success: dup-installer/assets/images/ui-icons_222222_256x240.png >>> /var/www/html
+[May 8 23:24:29] Success: dup-installer/assets/images/ui-icons_888888_256x240.png >>> /var/www/html
+[May 8 23:24:29] Success: dup-installer/assets/images/ui-bg_highlight-soft_75_cccccc_1x100.png >>> /var/www/html
+[May 8 23:24:29] Success: dup-installer/assets/inc.js.php >>> /var/www/html
+[May 8 23:24:29] Success: dup-installer/assets/inc.libs.js >>> /var/www/html
+[May 8 23:24:29] Success: dup-installer/assets/font-awesome/webfonts/fa-solid-900.woff >>> /var/www/html
+[May 8 23:24:29] Success: dup-installer/assets/font-awesome/webfonts/fa-regular-400.ttf >>> /var/www/html
+[May 8 23:24:29] Success: dup-installer/assets/font-awesome/webfonts/fa-brands-400.ttf >>> /var/www/html
+[May 8 23:24:29] Success: dup-installer/assets/font-awesome/webfonts/fa-regular-400.eot >>> /var/www/html
+[May 8 23:24:29] Success: dup-installer/assets/font-awesome/webfonts/fa-solid-900.ttf >>> /var/www/html
+[May 8 23:24:29] Success: dup-installer/assets/font-awesome/webfonts/fa-regular-400.woff2 >>> /var/www/html
+[May 8 23:24:29] Success: dup-installer/assets/font-awesome/webfonts/fa-solid-900.woff2 >>> /var/www/html
+[May 8 23:24:29] Success: dup-installer/assets/font-awesome/webfonts/index.php >>> /var/www/html
+[May 8 23:24:29] Success: dup-installer/assets/font-awesome/webfonts/fa-solid-900.eot >>> /var/www/html
+[May 8 23:24:29] Success: dup-installer/assets/font-awesome/webfonts/fa-regular-400.woff >>> /var/www/html
+[May 8 23:24:29] Success: dup-installer/assets/font-awesome/webfonts/fa-brands-400.woff >>> /var/www/html
+[May 8 23:24:29] Success: dup-installer/assets/font-awesome/webfonts/fa-brands-400.woff2 >>> /var/www/html
+[May 8 23:24:29] Success: dup-installer/assets/font-awesome/webfonts/fa-brands-400.eot >>> /var/www/html
+[May 8 23:24:29] Success: dup-installer/assets/font-awesome/index.php >>> /var/www/html
+[May 8 23:24:29] Success: dup-installer/assets/font-awesome/css/index.php >>> /var/www/html
+[May 8 23:24:29] Success: dup-installer/assets/font-awesome/css/all.min.css >>> /var/www/html
+[May 8 23:24:29] Success: dup-installer/assets/index.php >>> /var/www/html
+[May 8 23:24:29] Success: dup-installer/assets/inc.libs.css.php >>> /var/www/html
+[May 8 23:24:29] Success: dup-installer/assets/inc.css.php >>> /var/www/html
+[May 8 23:24:29] Success: dup-installer/favicon/lite01_favicon-32x32.png >>> /var/www/html
+[May 8 23:24:29] Success: dup-installer/favicon/lite01_apple-touch-icon.png >>> /var/www/html
+[May 8 23:24:29] Success: dup-installer/favicon/lite01_android-chrome-192x192.png >>> /var/www/html
+[May 8 23:24:29] Success: dup-installer/favicon/lite01_favicon-16x16.png >>> /var/www/html
+[May 8 23:24:29] Success: dup-installer/favicon/browserconfig.xml >>> /var/www/html
+[May 8 23:24:29] Success: dup-installer/favicon/lite01_favicon.ico >>> /var/www/html
+[May 8 23:24:29] Success: dup-installer/favicon/site.webmanifest >>> /var/www/html
+[May 8 23:24:29] Success: dup-installer/favicon/lite01_safari-pinned-tab.svg >>> /var/www/html
+[May 8 23:24:29] Success: dup-installer/favicon/lite01_android-chrome-256x256.png >>> /var/www/html
+[May 8 23:24:29] Success: dup-installer/favicon/lite01_mstile-150x150.png >>> /var/www/html
+[May 8 23:24:29] Success: dup-installer/ctrls/ctrl.s3.php >>> /var/www/html
+[May 8 23:24:29] Success: dup-installer/ctrls/ctrl.s2.base.php >>> /var/www/html
+[May 8 23:24:29] Success: dup-installer/ctrls/ctrl.s1.php >>> /var/www/html
+[May 8 23:24:29] Success: dup-installer/ctrls/ctrl.base.php >>> /var/www/html
+[May 8 23:24:29] Success: dup-installer/ctrls/classes/class.ctrl.extraction.php >>> /var/www/html
+[May 8 23:24:29] Success: dup-installer/ctrls/ctrl.s2.dbinstall.php >>> /var/www/html
+[May 8 23:24:29] Success: dup-installer/ctrls/ctrl.s2.dbtest.php >>> /var/www/html
+[May 8 23:24:29] Success: dup-installer/ctrls/index.php >>> /var/www/html
+[May 8 23:24:29] Success: dup-installer/classes/class.installer.state.php >>> /var/www/html
+[May 8 23:24:29] Success: dup-installer/classes/class.package.php >>> /var/www/html
+[May 8 23:24:29] Success: dup-installer/classes/class.db.php >>> /var/www/html
+[May 8 23:24:29] Success: dup-installer/classes/class.server.php >>> /var/www/html
+[May 8 23:24:29] Success: dup-installer/classes/host/class.wpengine.host.php >>> /var/www/html
+[May 8 23:24:29] Success: dup-installer/classes/host/class.pantheon.host.php >>> /var/www/html
+[May 8 23:24:29] Success: dup-installer/classes/host/class.godaddy.host.php >>> /var/www/html
+[May 8 23:24:29] Success: dup-installer/classes/host/class.custom.host.manager.php >>> /var/www/html
+[May 8 23:24:29] Success: dup-installer/classes/host/class.wordpresscom.host.php >>> /var/www/html
+[May 8 23:24:29] Success: dup-installer/classes/host/class.flywheel.host.php >>> /var/www/html
+[May 8 23:24:29] Success: dup-installer/classes/host/class.liquidweb.host.php >>> /var/www/html
+[May 8 23:24:29] Success: dup-installer/classes/host/interface.host.php >>> /var/www/html
+[May 8 23:24:29] Success: dup-installer/classes/utilities/class.u.exceptions.php >>> /var/www/html
+[May 8 23:24:29] Success: dup-installer/classes/utilities/class.u.notices.manager.php >>> /var/www/html
+[May 8 23:24:29] Success: dup-installer/classes/utilities/class.u.php >>> /var/www/html
+[May 8 23:24:29] Success: dup-installer/classes/utilities/index.php >>> /var/www/html
+[May 8 23:24:29] Success: dup-installer/classes/utilities/class.u.html.php >>> /var/www/html
+[May 8 23:24:29] Success: dup-installer/classes/utilities/class.u.search.reaplce.manager.php >>> /var/www/html
+[May 8 23:24:29] Success: dup-installer/classes/Crypt/Random.php >>> /var/www/html
+[May 8 23:24:29] Success: dup-installer/classes/Crypt/index.php >>> /var/www/html
+[May 8 23:24:29] Success: dup-installer/classes/Crypt/Rijndael.php >>> /var/www/html
+[May 8 23:24:29] Success: dup-installer/classes/Crypt/Base.php >>> /var/www/html
+[May 8 23:24:29] Success: dup-installer/classes/class.csrf.php >>> /var/www/html
+[May 8 23:24:29] Success: dup-installer/classes/class.s3.func.php >>> /var/www/html
+[May 8 23:24:29] Success: dup-installer/classes/index.php >>> /var/www/html
+[May 8 23:24:29] Success: dup-installer/classes/class.crypt.php >>> /var/www/html
+[May 8 23:24:29] Success: dup-installer/classes/class.view.php >>> /var/www/html
+[May 8 23:24:29] Success: dup-installer/classes/config/class.archive.config.php >>> /var/www/html
+[May 8 23:24:29] Success: dup-installer/classes/config/class.conf.srv.php >>> /var/www/html
+[May 8 23:24:29] Success: dup-installer/classes/config/class.boot.php >>> /var/www/html
+[May 8 23:24:29] Success: dup-installer/classes/config/index.php >>> /var/www/html
+[May 8 23:24:29] Success: dup-installer/classes/config/class.constants.php >>> /var/www/html
+[May 8 23:24:29] Success: dup-installer/classes/class.logging.php >>> /var/www/html
+[May 8 23:24:29] Success: dup-installer/classes/class.engine.php >>> /var/www/html
+[May 8 23:24:29] Success: dup-installer/classes/class.password.php >>> /var/www/html
+[May 8 23:24:29] Success: dup-installer/classes/class.http.php >>> /var/www/html
+[May 8 23:24:29] Success: dup-installer/index.php >>> /var/www/html
+[May 8 23:24:29] Success: dup-installer/views/view.help.php >>> /var/www/html
+[May 8 23:24:29] Success: dup-installer/views/view.s2.dbtest.php >>> /var/www/html
+[May 8 23:24:29] Success: dup-installer/views/view.exception.php >>> /var/www/html
+[May 8 23:24:29] Success: dup-installer/views/view.s2.cpnl.lite.php >>> /var/www/html
+[May 8 23:24:29] Success: dup-installer/views/view.s2.basic.php >>> /var/www/html
+[May 8 23:24:29] Success: dup-installer/views/view.s3.php >>> /var/www/html
+[May 8 23:24:29] Success: dup-installer/views/view.init1.php >>> /var/www/html
+[May 8 23:24:29] Success: dup-installer/views/view.s4.php >>> /var/www/html
+[May 8 23:24:29] Success: dup-installer/views/index.php >>> /var/www/html
+[May 8 23:24:29] Success: dup-installer/views/view.s1.terms.php >>> /var/www/html
+[May 8 23:24:29] Success: dup-installer/views/view.s2.base.php >>> /var/www/html
+[May 8 23:24:29] Success: dup-installer/views/view.security.error.php >>> /var/www/html
+[May 8 23:24:29] Success: dup-installer/views/view.s1.base.php >>> /var/www/html
+[May 8 23:24:29] Success: dup-installer/main.installer.php >>> /var/www/html
+[May 8 23:24:29] Success: dup-installer/dup-archive__[HASH].txt >>> /var/www/html
+[May 8 23:24:29] Success: dup-installer/lib/snaplib/wordpress.core.files.php >>> /var/www/html
+[May 8 23:24:29] Success: dup-installer/lib/snaplib/class.snaplib.u.stream.php >>> /var/www/html
+[May 8 23:24:29] Success: dup-installer/lib/snaplib/class.snaplib.u.io.php >>> /var/www/html
+[May 8 23:24:29] Success: dup-installer/lib/snaplib/class.snaplib.u.url.php >>> /var/www/html
+[May 8 23:24:29] Success: dup-installer/lib/snaplib/class.snaplib.u.string.php >>> /var/www/html
+[May 8 23:24:29] Success: dup-installer/lib/snaplib/class.snaplib.u.ui.php >>> /var/www/html
+[May 8 23:24:29] Success: dup-installer/lib/snaplib/snaplib.all.php >>> /var/www/html
+[May 8 23:24:29] Success: dup-installer/lib/snaplib/class.snaplib.u.util.php >>> /var/www/html
+[May 8 23:24:29] Success: dup-installer/lib/snaplib/index.php >>> /var/www/html
+[May 8 23:24:29] Success: dup-installer/lib/snaplib/class.snaplib.exceptions.php >>> /var/www/html
+[May 8 23:24:29] Success: dup-installer/lib/snaplib/class.snaplib.u.net.php >>> /var/www/html
+[May 8 23:24:29] Success: dup-installer/lib/snaplib/class.snaplib.u.db.php >>> /var/www/html
+[May 8 23:24:29] Success: dup-installer/lib/snaplib/class.snaplib.u.json.php >>> /var/www/html
+[May 8 23:24:29] Success: dup-installer/lib/snaplib/class.snaplib.jsonSerializable.abstract.php >>> /var/www/html
+[May 8 23:24:29] Success: dup-installer/lib/snaplib/class.snaplib.u.wp.php >>> /var/www/html
+[May 8 23:24:29] Success: dup-installer/lib/snaplib/class.snaplib.logger.php >>> /var/www/html
+[May 8 23:24:29] Success: dup-installer/lib/snaplib/class.snaplib.u.orig.files.manager.php >>> /var/www/html
+[May 8 23:24:29] Success: dup-installer/lib/snaplib/class.snaplib.u.os.php >>> /var/www/html
+[May 8 23:24:29] Success: dup-installer/lib/config/class.wp.config.tranformer.php >>> /var/www/html
+[May 8 23:24:29] Success: dup-installer/lib/config/class.wp.config.tranformer.src.php >>> /var/www/html
+[May 8 23:24:29] Successfully closed archive file
+[May 8 23:24:29] Successfully extracted with ZipArchive
+[May 8 23:24:29] SAPI: FPM
+[May 8 23:24:29] Server: Nginx
+[May 8 23:24:29] creating /var/www/html/dup-installer/.htaccess with the content:
+[May 8 23:24:29] php_value max_execution_time 3600
+php_value max_input_time -1
+php_flag ignore_user_abort On
+php_value post_max_size 4096M
+php_value upload_max_filesize 4096M
+php_value memory_limit 4294967296
+php_value default_socket_timeout 3600
+php_value pcre.backtrack_limit 99999999999
+[May 8 23:24:29] Set permissions of /var/www/html/dup-installer<br/>
+[May 8 23:24:29] Set permissions of /var/www/html/dup-installer/assets<br/>
+[May 8 23:24:29] Set permissions of /var/www/html/dup-installer/classes<br/>
+[May 8 23:24:29] Set permissions of /var/www/html/dup-installer/ctrls<br/>
+[May 8 23:24:29] Set permissions of /var/www/html/dup-installer/favicon<br/>
+[May 8 23:24:29] Set permissions of /var/www/html/dup-installer/lib<br/>
+[May 8 23:24:29] Set permissions of /var/www/html/dup-installer/views<br/>
+[May 8 23:24:29] Set permissions of /var/www/html/dup-installer/.htaccess<br/>
+[May 8 23:24:29] Set permissions of /var/www/html/dup-installer/dup-archive__[HASH].txt<br/>
+[May 8 23:24:29] Set permissions of /var/www/html/dup-installer/dup-database__[HASH].sql<br/>
+[May 8 23:24:29] Set permissions of /var/www/html/dup-installer/dup-scan__[HASH].json<br/>
+[May 8 23:24:29] Set permissions of /var/www/html/dup-installer/index.php<br/>
+[May 8 23:24:29] Set permissions of /var/www/html/dup-installer/main.installer.php<br/>
+[May 8 23:24:29] DONE: No detected errors so redirecting to the main installer. Main Installer URI = http://albertodiazlab.duckdns.org/dup-installer/main.installer.php
