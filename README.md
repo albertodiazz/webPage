@@ -24,7 +24,7 @@ When the certificate is done see if the certificate exist
 
 The next thing is update your nginx.conf and yml for open the port 443 and --force-renewal in .yml please see the documentation in digital ocean. I upload this file because i had problems runing the docker-compose in the same way as the digital ocean documentation. I experienced crashed in the mysql the fault was of the volumes, that´s resolve mounted the volumes on the machine
 
-' Remember changed the domains in the nginx files and the docker-compose
+- Remember changed the domains in the nginx files and the docker-compose
 
 Reference: https://www.digitalocean.com/community/tutorials/how-to-install-wordpress-with-docker-compose-es
 www.duckdns.org
